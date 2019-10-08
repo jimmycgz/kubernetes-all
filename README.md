@@ -1,5 +1,14 @@
 # kubernetes-all
 
+## General Tips
+
+* Kubectl Cheat Sheet
+https://www.digitalocean.com/community/cheatsheets/getting-started-with-kubectl-a-kubectl-cheat-sheet?status=moved_permanently 
+
+* Programmatically generated handy kubectl aliases. 
+https://ahmet.im/blog/kubectl-aliases/
+
+
 ## EKS
 Build EKS from Zero by Terraform 
 
