@@ -1,6 +1,6 @@
 # kubernetes-all
 
-## General Tips
+## General Topics
 
 * Kubectl Cheat Sheet
 https://www.digitalocean.com/community/cheatsheets/getting-started-with-kubectl-a-kubectl-cheat-sheet?status=moved_permanently 
@@ -8,6 +8,13 @@ https://www.digitalocean.com/community/cheatsheets/getting-started-with-kubectl-
 * Programmatically generated handy kubectl aliases. 
 https://ahmet.im/blog/kubectl-aliases/
 
+## K8s CICD
+
+How to deploy to k8s by Jenkins pipeline as code. Forked from Slalom Dojo:
+https://github.com/jimmycgz/cicd-k8s 
+
+Watch the video for how doesn't Google engineers do with jenkins-k8s:
+https://cloud.google.com/solutions/jenkins-on-kubernetes-engine
 
 ## EKS
 Build EKS from Zero by Terraform 
